@@ -1,3 +1,10 @@
+Made use of one of many Nasa's API - Astronomy Picture of the Day (APOD). This is a react app that will simply request Nasa APOD api for the picture of the day and display the picture, date and explanation regarding the picture.
+
+
+Visit the website at - https://nasa--apod.herokuapp.com/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
