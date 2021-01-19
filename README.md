@@ -3,6 +3,12 @@ Made use of one of many Nasa's API - Astronomy Picture of the Day (APOD). This i
 
 Visit the website at - https://nasa--apod.herokuapp.com/
 
+## Screenshot
+
+
+![image](https://user-images.githubusercontent.com/55919214/105044351-a2e88200-5a8c-11eb-8980-dc6ddccc08a2.png)
+
+
 
 
 # Getting Started with Create React App
